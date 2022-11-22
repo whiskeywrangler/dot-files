@@ -1,0 +1,8 @@
+[description:"Training for jail laptops" entry:"1669127559" modified:"1669136297" status:"pending" tags:"work,jaillaptop" uuid:"16988d6b-9a54-455b-b494-bee2810cd93b"]
+[description:"Security ScoreCard" entry:"1669128032" modified:"1669151750" project:"Scorecard" status:"pending" tags:"work,security" uuid:"23bd9ff1-3b0e-4d56-9032-e01406a6fc33"]
+[description:"Schedule for Laptop Swap" entry:"1669128884" modified:"1669136297" status:"pending" tags:"work,jaillaptop" uuid:"665877c4-6607-460a-bc72-93b7ff78bb9b"]
+[description:"GPOs for NAD" entry:"1669129050" modified:"1669151634" status:"pending" tags:"work,security,NAD" uuid:"bf1e5391-69b1-44e2-a46d-3ee27ad1b9bb"]
+[description:"PrisonResourceSched Internal Access" entry:"1669135897" modified:"1669136267" priority:"H" project:"Work" status:"pending" tags:"work,prs" uuid:"0d3c0bd2-40ab-435f-9ecd-426bfe16dd01"]
+[annotation_1669143526:"&open;tasknote&close; This is an example tasknote!" description:"Check BU sched for Robert" entry:"1669136487" modified:"1669143526" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+[description:"Check MDT and Util3 for use" entry:"1669143160" modified:"1669143160" status:"pending" tags:"work,servers" uuid:"4bd7f13b-d0a2-44fd-b219-846a65960960"]
+[description:"Create TaskWarrior Conky Config" entry:"1669151611" modified:"1669151720" project:"Conky-TaskWarrior" status:"pending" tags:"work,personal" uuid:"1ef87e10-247f-4954-afc8-122605fa88d1"]

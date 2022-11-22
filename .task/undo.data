@@ -1,0 +1,266 @@
+time 1669127559
+new [description:"Training for jail laptops" entry:"1669127559" modified:"1669127559" status:"pending" uuid:"16988d6b-9a54-455b-b494-bee2810cd93b"]
+---
+time 1669128032
+new [description:"Security ScoreCard" entry:"1669128032" modified:"1669128032" status:"pending" uuid:"23bd9ff1-3b0e-4d56-9032-e01406a6fc33"]
+---
+time 1669128884
+new [description:"Schedule for Laptop Swap" entry:"1669128884" modified:"1669128884" status:"pending" uuid:"665877c4-6607-460a-bc72-93b7ff78bb9b"]
+---
+time 1669129050
+new [description:"GPOs for NAD" entry:"1669129050" modified:"1669129050" status:"pending" uuid:"bf1e5391-69b1-44e2-a46d-3ee27ad1b9bb"]
+---
+time 1669135897
+new [description:"PrisonResourceSched Internal Access" entry:"1669135897" modified:"1669135897" status:"pending" uuid:"0d3c0bd2-40ab-435f-9ecd-426bfe16dd01"]
+---
+time 1669136147
+old [description:"PrisonResourceSched Internal Access" entry:"1669135897" modified:"1669135897" status:"pending" uuid:"0d3c0bd2-40ab-435f-9ecd-426bfe16dd01"]
+new [description:"PrisonResourceSched Internal Access" entry:"1669135897" modified:"1669136147" priority:"H" status:"pending" uuid:"0d3c0bd2-40ab-435f-9ecd-426bfe16dd01"]
+---
+time 1669136196
+old [description:"PrisonResourceSched Internal Access" entry:"1669135897" modified:"1669136147" priority:"H" status:"pending" uuid:"0d3c0bd2-40ab-435f-9ecd-426bfe16dd01"]
+new [description:"PrisonResourceSched Internal Access" entry:"1669135897" modified:"1669136196" priority:"H" project:"Work" status:"pending" uuid:"0d3c0bd2-40ab-435f-9ecd-426bfe16dd01"]
+---
+time 1669136267
+old [description:"PrisonResourceSched Internal Access" entry:"1669135897" modified:"1669136196" priority:"H" project:"Work" status:"pending" uuid:"0d3c0bd2-40ab-435f-9ecd-426bfe16dd01"]
+new [description:"PrisonResourceSched Internal Access" entry:"1669135897" modified:"1669136267" priority:"H" project:"Work" status:"pending" tags:"work,prs" uuid:"0d3c0bd2-40ab-435f-9ecd-426bfe16dd01"]
+---
+time 1669136297
+old [description:"Training for jail laptops" entry:"1669127559" modified:"1669127559" status:"pending" uuid:"16988d6b-9a54-455b-b494-bee2810cd93b"]
+new [description:"Training for jail laptops" entry:"1669127559" modified:"1669136297" status:"pending" tags:"work,jaillaptop" uuid:"16988d6b-9a54-455b-b494-bee2810cd93b"]
+---
+time 1669136297
+old [description:"Schedule for Laptop Swap" entry:"1669128884" modified:"1669128884" status:"pending" uuid:"665877c4-6607-460a-bc72-93b7ff78bb9b"]
+new [description:"Schedule for Laptop Swap" entry:"1669128884" modified:"1669136297" status:"pending" tags:"work,jaillaptop" uuid:"665877c4-6607-460a-bc72-93b7ff78bb9b"]
+---
+time 1669136487
+new [description:"Check BU sched for Robert" entry:"1669136487" modified:"1669136487" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+---
+time 1669143160
+new [description:"Check MDT and Util3 for use" entry:"1669143160" modified:"1669143160" status:"pending" tags:"work,servers" uuid:"4bd7f13b-d0a2-44fd-b219-846a65960960"]
+---
+time 1669143465
+old [description:"Check BU sched for Robert" entry:"1669136487" modified:"1669136487" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+new [annotation_1669143465:"&open;tasknote&close; This is an example tasknote!" description:"Check BU sched for Robert" entry:"1669136487" modified:"1669143465" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+---
+time 1669143523
+old [annotation_1669143465:"&open;tasknote&close; This is an example tasknote!" description:"Check BU sched for Robert" entry:"1669136487" modified:"1669143465" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+new [description:"Check BU sched for Robert" entry:"1669136487" modified:"1669143523" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+---
+time 1669143523
+old [description:"Check BU sched for Robert" entry:"1669136487" modified:"1669143523" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+new [annotation_1669143523:"&open;tasknote&close; This is an example tasknote!" description:"Check BU sched for Robert" entry:"1669136487" modified:"1669143523" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+---
+time 1669143526
+old [annotation_1669143523:"&open;tasknote&close; This is an example tasknote!" description:"Check BU sched for Robert" entry:"1669136487" modified:"1669143523" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+new [description:"Check BU sched for Robert" entry:"1669136487" modified:"1669143526" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+---
+time 1669143526
+old [description:"Check BU sched for Robert" entry:"1669136487" modified:"1669143526" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+new [annotation_1669143526:"&open;tasknote&close; This is an example tasknote!" description:"Check BU sched for Robert" entry:"1669136487" modified:"1669143526" status:"pending" tags:"work,backups" uuid:"bd6427a0-45e5-486d-b2f7-e180ffee9c13"]
+---
+time 1669145853
+new [description:"OutServProxy live" entry:"1645916247" modified:"1645916247" priority:"H" status:"pending" uuid:"6c26f290-c7d4-44b9-9e18-19c2a7c5635a"]
+---
+time 1669145853
+old [description:"OutServProxy live" entry:"1645916247" modified:"1645916247" priority:"H" status:"pending" uuid:"6c26f290-c7d4-44b9-9e18-19c2a7c5635a"]
+new [description:"OutServProxy live" entry:"1645916247" modified:"1646073614" priority:"H" start:"1646073614" status:"pending" uuid:"6c26f290-c7d4-44b9-9e18-19c2a7c5635a"]
+---
+time 1669145853
+old [description:"OutServProxy live" entry:"1645916247" modified:"1646073614" priority:"H" start:"1646073614" status:"pending" uuid:"6c26f290-c7d4-44b9-9e18-19c2a7c5635a"]
+new [description:"OutServProxy live" end:"1646074726" entry:"1645916247" modified:"1646074726" priority:"H" start:"1646073614" status:"deleted" uuid:"6c26f290-c7d4-44b9-9e18-19c2a7c5635a"]
+---
+time 1669145853
+old [description:"OutServProxy live" end:"1646074726" entry:"1645916247" modified:"1646074726" priority:"H" start:"1646073614" status:"deleted" uuid:"6c26f290-c7d4-44b9-9e18-19c2a7c5635a"]
+new [description:"OutServProxy live" end:"1646074742" entry:"1645916247" modified:"1646074742" priority:"H" status:"completed" uuid:"6c26f290-c7d4-44b9-9e18-19c2a7c5635a"]
+---
+time 1669145853
+new [description:"Check Citation links logs" entry:"1646088050" modified:"1646088050" status:"pending" uuid:"9c1e65ae-df94-47b1-8c93-f960751727fb"]
+---
+time 1669145853
+new [description:"Financial Mapped Drives" entry:"1646088095" modified:"1646088095" status:"pending" uuid:"c3cc0d2a-8c93-4ac4-8d32-90c9d186435a"]
+---
+time 1669145853
+new [description:"Get Kristin to watch videos" entry:"1646088333" modified:"1646088333" project:"AudioRecordings" status:"pending" uuid:"68a565d2-86f2-433b-9cce-fd4a5d7f787d"]
+---
+time 1669145853
+new [description:"-T home Tyler Custom Boots" entry:"1646153586" modified:"1646153586" status:"pending" uuid:"b110f40f-e8ae-4571-b7cc-98e8414e695c"]
+---
+time 1669145853
+new [description:"Meet with PamelaW @ 3 -DUETODAY" entry:"1646153650" modified:"1646153650" status:"pending" uuid:"4aa9580b-10ba-42f0-a182-2e3d486ba2b4"]
+---
+time 1669145853
+new [description:"external user redirect shortcut" entry:"1646164579" modified:"1646164579" status:"pending" uuid:"7b77a901-497e-49bf-981a-fd9f7fa35cff"]
+---
+time 1669145853
+old [description:"external user redirect shortcut" entry:"1646164579" modified:"1646164579" status:"pending" uuid:"7b77a901-497e-49bf-981a-fd9f7fa35cff"]
+new [description:"external user redirect shortcut" entry:"1646164579" modified:"1646164586" start:"1646164586" status:"pending" uuid:"7b77a901-497e-49bf-981a-fd9f7fa35cff"]
+---
+time 1669145853
+old [description:"external user redirect shortcut" entry:"1646164579" modified:"1646164586" start:"1646164586" status:"pending" uuid:"7b77a901-497e-49bf-981a-fd9f7fa35cff"]
+new [description:"external user redirect shortcut" entry:"1646164579" modified:"1646168937" status:"pending" uuid:"7b77a901-497e-49bf-981a-fd9f7fa35cff"]
+---
+time 1669145853
+old [description:"Meet with PamelaW @ 3 -DUETODAY" entry:"1646153650" modified:"1646153650" status:"pending" uuid:"4aa9580b-10ba-42f0-a182-2e3d486ba2b4"]
+new [description:"Meet with PamelaW @ 3 -DUETODAY" end:"1646168946" entry:"1646153650" modified:"1646168946" status:"completed" uuid:"4aa9580b-10ba-42f0-a182-2e3d486ba2b4"]
+---
+time 1669145853
+old [description:"external user redirect shortcut" entry:"1646164579" modified:"1646168937" status:"pending" uuid:"7b77a901-497e-49bf-981a-fd9f7fa35cff"]
+new [description:"external user redirect shortcut" end:"1646168964" entry:"1646164579" modified:"1646168964" status:"completed" uuid:"7b77a901-497e-49bf-981a-fd9f7fa35cff"]
+---
+time 1669145853
+new [description:"Configure Cookbook" entry:"1646170314" modified:"1646170314" project:"Homelab" status:"pending" uuid:"dde7a375-6deb-4434-9268-6d3b672411ce"]
+---
+time 1669145853
+new [description:"intern accounts for Next-Gen" entry:"1646073280" modified:"1646170458" project:"NextGen" status:"pending" uuid:"669681e5-d6ef-4564-865a-7e4aee6aac8e"]
+---
+time 1669145853
+old [description:"intern accounts for Next-Gen" entry:"1646073280" modified:"1646170458" project:"NextGen" status:"pending" uuid:"669681e5-d6ef-4564-865a-7e4aee6aac8e"]
+new [description:"intern accounts for Next-Gen" entry:"1646073280" modified:"1646170584" project:"NextGen" status:"pending" tags:"work" uuid:"669681e5-d6ef-4564-865a-7e4aee6aac8e"]
+---
+time 1669145853
+new [description:"Scanner issue in Tuscaloosa" entry:"1646073297" modified:"1646170622" status:"pending" tags:"work" uuid:"d0d6dc55-4492-428c-92ef-11847db0fd86"]
+---
+time 1669145853
+old [description:"Check Citation links logs" entry:"1646088050" modified:"1646088050" status:"pending" uuid:"9c1e65ae-df94-47b1-8c93-f960751727fb"]
+new [description:"Check Citation links logs" entry:"1646088050" modified:"1646170630" status:"pending" tags:"work" uuid:"9c1e65ae-df94-47b1-8c93-f960751727fb"]
+---
+time 1669145853
+old [description:"Financial Mapped Drives" entry:"1646088095" modified:"1646088095" status:"pending" uuid:"c3cc0d2a-8c93-4ac4-8d32-90c9d186435a"]
+new [description:"Financial Mapped Drives" entry:"1646088095" modified:"1646170638" status:"pending" tags:"work" uuid:"c3cc0d2a-8c93-4ac4-8d32-90c9d186435a"]
+---
+time 1669145853
+old [description:"-T home Tyler Custom Boots" entry:"1646153586" modified:"1646153586" status:"pending" uuid:"b110f40f-e8ae-4571-b7cc-98e8414e695c"]
+new [description:"-T home Tyler Custom Boots" entry:"1646153586" modified:"1646170649" status:"pending" tags:"home" uuid:"b110f40f-e8ae-4571-b7cc-98e8414e695c"]
+---
+time 1669145853
+old [description:"Get Kristin to watch videos" entry:"1646088333" modified:"1646088333" project:"AudioRecordings" status:"pending" uuid:"68a565d2-86f2-433b-9cce-fd4a5d7f787d"]
+new [description:"Get Kristin to watch videos" entry:"1646088333" modified:"1646170658" project:"AudioRecordings" status:"pending" tags:"home" uuid:"68a565d2-86f2-433b-9cce-fd4a5d7f787d"]
+---
+time 1669145853
+old [description:"Configure Cookbook" entry:"1646170314" modified:"1646170314" project:"Homelab" status:"pending" uuid:"dde7a375-6deb-4434-9268-6d3b672411ce"]
+new [description:"Configure Cookbook" entry:"1646170314" modified:"1646170676" project:"Homelab" status:"pending" tags:"home" uuid:"dde7a375-6deb-4434-9268-6d3b672411ce"]
+---
+time 1669145853
+new [description:"BeckyW Onedrive setup" entry:"1646175126" modified:"1646175126" project:"Helpdesk" status:"pending" tags:"work" uuid:"22b3044b-9bd7-45f5-a272-ae04a20fc3ff"]
+---
+time 1669145853
+old [description:"Check Citation links logs" entry:"1646088050" modified:"1646170630" status:"pending" tags:"work" uuid:"9c1e65ae-df94-47b1-8c93-f960751727fb"]
+new [description:"Check Citation links logs" end:"1646239913" entry:"1646088050" modified:"1646239913" status:"completed" tags:"work" uuid:"9c1e65ae-df94-47b1-8c93-f960751727fb"]
+---
+time 1669145853
+new [description:"Add Meaghan Williams to clerks mailing list" entry:"1646248028" modified:"1646248028" status:"pending" tags:"work" uuid:"bc93eccf-e940-4490-b1da-e1b2c93bd8d1"]
+---
+time 1669145853
+new [description:"Add Meaghan Williams word signature issue" entry:"1646248074" modified:"1646248074" project:"Helpdesk" status:"pending" tags:"work,word" uuid:"395001de-3e0a-44de-b2ff-bbe234960ef3"]
+---
+time 1669145853
+new [description:"microSD card copy for Joe" entry:"1646248135" modified:"1646248135" status:"pending" tags:"work" uuid:"7e48536d-2f2f-4a3d-90e4-5664cbea3e98"]
+---
+time 1669145853
+new [description:"Missing Bowdre Zoom Icon" entry:"1646251798" modified:"1646251798" project:"Helpdesk" status:"pending" tags:"work" uuid:"f5c0306c-13e6-4de8-ba61-9ec20fcf5f63"]
+---
+time 1669145853
+new [description:"westlaw drafting assistant meaghan william" entry:"1646253684" modified:"1646253684" project:"Helpdesk" status:"pending" tags:"work" uuid:"3364c49f-37dc-4044-85da-1b871f8fe6cd"]
+---
+time 1669145853
+old [description:"Missing Bowdre Zoom Icon" entry:"1646251798" modified:"1646251798" project:"Helpdesk" status:"pending" tags:"work" uuid:"f5c0306c-13e6-4de8-ba61-9ec20fcf5f63"]
+new [description:"Missing Bowdre Zoom Icon" end:"1646886498" entry:"1646251798" modified:"1646886498" project:"Helpdesk" status:"completed" tags:"work" uuid:"f5c0306c-13e6-4de8-ba61-9ec20fcf5f63"]
+---
+time 1669145853
+old [description:"Add Meaghan Williams to clerks mailing list" entry:"1646248028" modified:"1646248028" status:"pending" tags:"work" uuid:"bc93eccf-e940-4490-b1da-e1b2c93bd8d1"]
+new [description:"Add Meaghan Williams to clerks mailing list" end:"1646886512" entry:"1646248028" modified:"1646886512" status:"completed" tags:"work" uuid:"bc93eccf-e940-4490-b1da-e1b2c93bd8d1"]
+---
+time 1669145853
+old [description:"microSD card copy for Joe" entry:"1646248135" modified:"1646248135" status:"pending" tags:"work" uuid:"7e48536d-2f2f-4a3d-90e4-5664cbea3e98"]
+new [description:"microSD card copy for Joe" end:"1646886516" entry:"1646248135" modified:"1646886516" status:"completed" tags:"work" uuid:"7e48536d-2f2f-4a3d-90e4-5664cbea3e98"]
+---
+time 1669145853
+old [description:"Add Meaghan Williams word signature issue" entry:"1646248074" modified:"1646248074" project:"Helpdesk" status:"pending" tags:"work,word" uuid:"395001de-3e0a-44de-b2ff-bbe234960ef3"]
+new [description:"Add Meaghan Williams word signature issue" entry:"1646248074" modified:"1646946260" project:"Helpdesk" scheduled:"1647014400" status:"pending" tags:"work,word" uuid:"395001de-3e0a-44de-b2ff-bbe234960ef3"]
+---
+time 1669145853
+old [description:"Add Meaghan Williams word signature issue" entry:"1646248074" modified:"1646946260" project:"Helpdesk" scheduled:"1647014400" status:"pending" tags:"work,word" uuid:"395001de-3e0a-44de-b2ff-bbe234960ef3"]
+new [description:"Add Meaghan Williams word signature issue" due:"1646928000" entry:"1646248074" modified:"1646946687" project:"Helpdesk" scheduled:"1647014400" status:"pending" tags:"work,word" uuid:"395001de-3e0a-44de-b2ff-bbe234960ef3"]
+---
+time 1669145853
+old [description:"Add Meaghan Williams word signature issue" due:"1646928000" entry:"1646248074" modified:"1646946687" project:"Helpdesk" scheduled:"1647014400" status:"pending" tags:"work,word" uuid:"395001de-3e0a-44de-b2ff-bbe234960ef3"]
+new [description:"Add Meaghan Williams word signature issue" due:"1647014400" entry:"1646248074" modified:"1646946697" project:"Helpdesk" scheduled:"1647014400" status:"pending" tags:"work,word" uuid:"395001de-3e0a-44de-b2ff-bbe234960ef3"]
+---
+time 1669145853
+old [description:"Add Meaghan Williams word signature issue" due:"1647014400" entry:"1646248074" modified:"1646946697" project:"Helpdesk" scheduled:"1647014400" status:"pending" tags:"work,word" uuid:"395001de-3e0a-44de-b2ff-bbe234960ef3"]
+new [description:"Add Meaghan Williams word signature issue" due:"1647014400" end:"1669128621" entry:"1646248074" modified:"1669128621" project:"Helpdesk" scheduled:"1647014400" status:"deleted" tags:"work,word" uuid:"395001de-3e0a-44de-b2ff-bbe234960ef3"]
+---
+time 1669145853
+old [description:"Get Kristin to watch videos" entry:"1646088333" modified:"1646170658" project:"AudioRecordings" status:"pending" tags:"home" uuid:"68a565d2-86f2-433b-9cce-fd4a5d7f787d"]
+new [description:"Get Kristin to watch videos" end:"1669128625" entry:"1646088333" modified:"1669128625" project:"AudioRecordings" status:"deleted" tags:"home" uuid:"68a565d2-86f2-433b-9cce-fd4a5d7f787d"]
+---
+time 1669145853
+old [description:"intern accounts for Next-Gen" entry:"1646073280" modified:"1646170584" project:"NextGen" status:"pending" tags:"work" uuid:"669681e5-d6ef-4564-865a-7e4aee6aac8e"]
+new [description:"intern accounts for Next-Gen" end:"1669128628" entry:"1646073280" modified:"1669128628" project:"NextGen" status:"deleted" tags:"work" uuid:"669681e5-d6ef-4564-865a-7e4aee6aac8e"]
+---
+time 1669145853
+old [description:"Configure Cookbook" entry:"1646170314" modified:"1646170676" project:"Homelab" status:"pending" tags:"home" uuid:"dde7a375-6deb-4434-9268-6d3b672411ce"]
+new [description:"Configure Cookbook" end:"1669128630" entry:"1646170314" modified:"1669128630" project:"Homelab" status:"deleted" tags:"home" uuid:"dde7a375-6deb-4434-9268-6d3b672411ce"]
+---
+time 1669145853
+old [description:"BeckyW Onedrive setup" entry:"1646175126" modified:"1646175126" project:"Helpdesk" status:"pending" tags:"work" uuid:"22b3044b-9bd7-45f5-a272-ae04a20fc3ff"]
+new [description:"BeckyW Onedrive setup" end:"1669128632" entry:"1646175126" modified:"1669128632" project:"Helpdesk" status:"deleted" tags:"work" uuid:"22b3044b-9bd7-45f5-a272-ae04a20fc3ff"]
+---
+time 1669145853
+old [description:"westlaw drafting assistant meaghan william" entry:"1646253684" modified:"1646253684" project:"Helpdesk" status:"pending" tags:"work" uuid:"3364c49f-37dc-4044-85da-1b871f8fe6cd"]
+new [description:"westlaw drafting assistant meaghan william" end:"1669128634" entry:"1646253684" modified:"1669128634" project:"Helpdesk" status:"deleted" tags:"work" uuid:"3364c49f-37dc-4044-85da-1b871f8fe6cd"]
+---
+time 1669145853
+old [description:"Financial Mapped Drives" entry:"1646088095" modified:"1646170638" status:"pending" tags:"work" uuid:"c3cc0d2a-8c93-4ac4-8d32-90c9d186435a"]
+new [description:"Financial Mapped Drives" end:"1669128636" entry:"1646088095" modified:"1669128636" status:"deleted" tags:"work" uuid:"c3cc0d2a-8c93-4ac4-8d32-90c9d186435a"]
+---
+time 1669145853
+old [description:"Scanner issue in Tuscaloosa" entry:"1646073297" modified:"1646170622" status:"pending" tags:"work" uuid:"d0d6dc55-4492-428c-92ef-11847db0fd86"]
+new [description:"Scanner issue in Tuscaloosa" end:"1669128638" entry:"1646073297" modified:"1669128638" status:"deleted" tags:"work" uuid:"d0d6dc55-4492-428c-92ef-11847db0fd86"]
+---
+time 1669145853
+old [description:"-T home Tyler Custom Boots" entry:"1646153586" modified:"1646170649" status:"pending" tags:"home" uuid:"b110f40f-e8ae-4571-b7cc-98e8414e695c"]
+new [description:"-T home Tyler Custom Boots" end:"1669128643" entry:"1646153586" modified:"1669128643" status:"deleted" tags:"home" uuid:"b110f40f-e8ae-4571-b7cc-98e8414e695c"]
+---
+time 1669145853
+new [description:"testing 123" entry:"1669145703" modified:"1669145703" status:"pending" uuid:"c2f2ae00-6a9c-11ed-b5b2-173e42b7071b"]
+---
+time 1669145853
+old [description:"testing 123" entry:"1669145703" modified:"1669145703" status:"pending" uuid:"c2f2ae00-6a9c-11ed-b5b2-173e42b7071b"]
+new [description:"testing 123" end:"1669145729" entry:"1669145703" modified:"1669145729" status:"deleted" uuid:"c2f2ae00-6a9c-11ed-b5b2-173e42b7071b"]
+---
+time 1669146638
+new [description:"Judge Proctor and Sally Badges at 14:00" due:"1669096800" entry:"1669146638" modified:"1669146638" status:"pending" uuid:"7e28c17b-9507-4c50-a3fa-829ff7f96069"]
+---
+time 1669146655
+old [description:"Judge Proctor and Sally Badges at 14:00" due:"1669096800" entry:"1669146638" modified:"1669146638" status:"pending" uuid:"7e28c17b-9507-4c50-a3fa-829ff7f96069"]
+new [description:"Judge Proctor and Sally Badges at 14:00" due:"1669096800" entry:"1669146638" modified:"1669146655" status:"pending" tags:"work" uuid:"7e28c17b-9507-4c50-a3fa-829ff7f96069"]
+---
+time 1669150415
+old [description:"Judge Proctor and Sally Badges at 14:00" due:"1669096800" entry:"1669146638" modified:"1669146655" status:"pending" tags:"work" uuid:"7e28c17b-9507-4c50-a3fa-829ff7f96069"]
+new [description:"Judge Proctor and Sally Badges at 14:00" due:"1669096800" end:"1669150415" entry:"1669146638" modified:"1669150415" status:"completed" tags:"work" uuid:"7e28c17b-9507-4c50-a3fa-829ff7f96069"]
+---
+time 1669151611
+new [description:"Create TaskWarrior Conky Config" entry:"1669151611" modified:"1669151611" status:"pending" tags:"work,personal" uuid:"1ef87e10-247f-4954-afc8-122605fa88d1"]
+---
+time 1669151634
+old [description:"GPOs for NAD" entry:"1669129050" modified:"1669129050" status:"pending" uuid:"bf1e5391-69b1-44e2-a46d-3ee27ad1b9bb"]
+new [description:"GPOs for NAD" entry:"1669129050" modified:"1669151634" status:"pending" tags:"work,security,NAD" uuid:"bf1e5391-69b1-44e2-a46d-3ee27ad1b9bb"]
+---
+time 1669151650
+old [description:"Security ScoreCard" entry:"1669128032" modified:"1669128032" status:"pending" uuid:"23bd9ff1-3b0e-4d56-9032-e01406a6fc33"]
+new [description:"Security ScoreCard" entry:"1669128032" modified:"1669151650" status:"pending" tags:"work,security" uuid:"23bd9ff1-3b0e-4d56-9032-e01406a6fc33"]
+---
+time 1669151690
+old [description:"Create TaskWarrior Conky Config" entry:"1669151611" modified:"1669151611" status:"pending" tags:"work,personal" uuid:"1ef87e10-247f-4954-afc8-122605fa88d1"]
+new [description:"Create TaskWarrior Conky Config" entry:"1669151611" modified:"1669151690" project:"Conky-TaskWarriot" status:"pending" tags:"work,personal" uuid:"1ef87e10-247f-4954-afc8-122605fa88d1"]
+---
+time 1669151720
+old [description:"Create TaskWarrior Conky Config" entry:"1669151611" modified:"1669151690" project:"Conky-TaskWarriot" status:"pending" tags:"work,personal" uuid:"1ef87e10-247f-4954-afc8-122605fa88d1"]
+new [description:"Create TaskWarrior Conky Config" entry:"1669151611" modified:"1669151720" project:"Conky-TaskWarrior" status:"pending" tags:"work,personal" uuid:"1ef87e10-247f-4954-afc8-122605fa88d1"]
+---
+time 1669151750
+old [description:"Security ScoreCard" entry:"1669128032" modified:"1669151650" status:"pending" tags:"work,security" uuid:"23bd9ff1-3b0e-4d56-9032-e01406a6fc33"]
+new [description:"Security ScoreCard" entry:"1669128032" modified:"1669151750" project:"Scorecard" status:"pending" tags:"work,security" uuid:"23bd9ff1-3b0e-4d56-9032-e01406a6fc33"]
+---
