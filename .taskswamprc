@@ -1,0 +1,8 @@
+{ "taskswamp": -1,
+  "refresh_every": 0,
+    "windows": [
+        { "name": "main", "task": "" },
+            { "name": "waiting", "task": "waiting" },
+                { "name": "myproject", "task": "project:myproject due:today ls limit:page" }
+                  ]
+}
